@@ -1,4 +1,3 @@
-![logo](https://github.com/hafsatufail2004/hafsatufail2004/blob/main/juanjo-jaramillo-mZnx9429i94-unsplash.jpg)
 <h1 align="center">Hi 👋, I'm Hafsa Tufail</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
